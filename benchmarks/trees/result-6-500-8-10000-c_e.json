@@ -1,0 +1,218 @@
+{
+  "covtype": {
+    "rf": {
+      "prediction_time": 2.322419235638032,
+      "peak_mem": 1372.9921875,
+      "onnx-ml": {
+        "conversion_time": "11.170330671942793",
+        "prediction_time": "1.5158639916529257",
+        "peak_mem": "1765.2421875",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "4.87487564003095",
+        "prediction_time": "9.229048982301416",
+        "peak_mem": "4401.42578125",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "50.17173461802304",
+        "prediction_time": "9.50975715299137",
+        "peak_mem": "3679.49609375",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "15.763096829061396",
+        "prediction_time": "6.999677704647183",
+        "peak_mem": "7706.3046875",
+        "is_same_output": true
+      },
+      "hb-tvm": {
+        "conversion_time": "69.77203420002479",
+        "prediction_time": "1.4463649169774726",
+        "peak_mem": "4335.81640625",
+        "is_same_output": true
+      }
+    },
+    "lgbm": {
+      "prediction_time": 11.218245950023023,
+      "peak_mem": 4365.41015625,
+      "onnx-ml": {
+        "conversion_time": "61.08142109506298",
+        "prediction_time": "5.015728976965572",
+        "peak_mem": "2617.953125",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "27.556798974983394",
+        "prediction_time": "62.70418500097003",
+        "peak_mem": "19660.4921875",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "346.338300153031",
+        "prediction_time": "65.98952227698949",
+        "peak_mem": "11721.25390625",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "100.83548002096359",
+        "prediction_time": "43.06714285265965",
+        "peak_mem": "26590.47265625",
+        "is_same_output": true
+      },
+      "hb-tvm": {
+        "conversion_time": "432.52434958005324",
+        "prediction_time": "9.292558963643387",
+        "peak_mem": "8629.6328125",
+        "is_same_output": true
+      }
+    },
+    "xgb": {
+      "train_time": "71.1353445489658",
+      "train_accuracy": "{'Accuracy': 0.030205760608590138, 'Precision': 0.030536194279324486, 'Recall': 0.030205760608590138, 'F1': 0.026429740410552384}",
+      "prediction_time": 2.7882332206548504,
+      "peak_mem": 8683.52734375,
+      "onnx-ml": {
+        "conversion_time": "10.158926984062418",
+        "prediction_time": "10.585473077992598",
+        "peak_mem": "2603.95703125",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "39.791651547071524",
+        "prediction_time": "54.89972725696862",
+        "peak_mem": "19655.0390625",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "311.6207712809555",
+        "prediction_time": "56.13560294134853",
+        "peak_mem": "11913.03515625",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "100.9426832679892",
+        "prediction_time": "34.758779700341016",
+        "peak_mem": "28003.65625",
+        "is_same_output": true
+      },
+      "hb-tvm": {
+        "conversion_time": "353.49945379199926",
+        "prediction_time": "9.152529850058878",
+        "peak_mem": "8969.5390625",
+        "is_same_output": true
+      }
+    }
+  },
+  "epsilon": {
+    "rf": {
+      "train_time": "1731.6758677220205",
+      "train_accuracy": "{'Accuracy': 0.75769, 'Log_Loss': 2.789704546355363, 'AUC': 0.7576865727261239, 'Precision': 0.7593354302766352, 'Recall': 0.7538784906415774}",
+      "prediction_time": 2.476272248663008,
+      "peak_mem": 6671.265625,
+      "onnx-ml": {
+        "conversion_time": "3.923701787018217",
+        "prediction_time": "1.1527829956806575",
+        "peak_mem": "6671.21875",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "3.108219546964392",
+        "prediction_time": "6.9905078783631325",
+        "peak_mem": "8763.734375",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "39.517694512964226",
+        "prediction_time": "6.997535860321174",
+        "peak_mem": "7813.79296875",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "10.678162919008173",
+        "prediction_time": "5.19652518533015",
+        "peak_mem": "10220.3125",
+        "is_same_output": false
+      },
+      "hb-tvm": {
+        "conversion_time": "45.19057659304235",
+        "prediction_time": "1.6186141830403358",
+        "peak_mem": "9620.3984375",
+        "is_same_output": false
+      }
+    },
+    "lgbm": {
+      "train_time": "1108.7483957159566",
+      "train_accuracy": "{'Accuracy': 0.87052, 'Log_Loss': 1.4907022944482529, 'AUC': 0.8705543831490504, 'Precision': 0.8440143529105546, 'Recall': 0.9087578820938845}",
+      "prediction_time": 1.7028913893348847,
+      "peak_mem": 9596.12890625,
+      "onnx-ml": {
+        "conversion_time": "8.962529139011167",
+        "prediction_time": "1.1474922746419907",
+        "peak_mem": "7307.59765625",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "7.344148210017011",
+        "prediction_time": "7.103186760020132",
+        "peak_mem": "9221.37890625",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "41.48118150397204",
+        "prediction_time": "6.737333507354681",
+        "peak_mem": "8444.15625",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "15.404542339034379",
+        "prediction_time": "5.131509209362169",
+        "peak_mem": "10857.31640625",
+        "is_same_output": false
+      },
+      "hb-tvm": {
+        "conversion_time": "61.738749252050184",
+        "prediction_time": "1.7059949423807363",
+        "peak_mem": "10362.2734375",
+        "is_same_output": false
+      }
+    },
+    "xgb": {
+      "train_time": "1855.231461143936",
+      "train_accuracy": "{'Accuracy': 0.87065, 'Log_Loss': 1.4892056154378157, 'AUC': 0.87068558025532, 'Precision': 0.843286350148368, 'Recall': 0.9102191972775497}",
+      "prediction_time": 0.8254950653063133,
+      "peak_mem": 10055.515625,
+      "onnx-ml": {
+        "conversion_time": "3.4292859269771725",
+        "prediction_time": "3.03792715301582",
+        "peak_mem": "7766.6015625",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "24.384009931003675",
+        "prediction_time": "6.5955107996317865",
+        "peak_mem": "9836.8828125",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "61.272712706937455",
+        "prediction_time": "6.875261989965414",
+        "peak_mem": "8913.1796875",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "32.492512208991684",
+        "prediction_time": "4.861027758607331",
+        "peak_mem": "11553.93359375",
+        "is_same_output": false
+      },
+      "hb-tvm": {
+        "conversion_time": "64.82433542399667",
+        "prediction_time": "1.7323197262982528",
+        "peak_mem": "10734.76953125",
+        "is_same_output": false
+      }
+    }
+  }
+}

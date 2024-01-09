@@ -1,0 +1,260 @@
+{
+  "covtype": {
+    "rf": {
+      "prediction_time": 0.42970090101395425,
+      "peak_mem": 1404.625,
+      "onnx-ml": {
+        "conversion_time": "17.652677092992235",
+        "prediction_time": "0.21252367868631458",
+        "peak_mem": "1779.33203125",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "4.549688178987708",
+        "prediction_time": "0.7908174309995957",
+        "peak_mem": "1905.0546875",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "10.002079155005049",
+        "prediction_time": "1.164230451977346",
+        "peak_mem": "2728.828125",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "6.260503404017072",
+        "prediction_time": "0.7760398399938518",
+        "peak_mem": "2914.8203125",
+        "is_same_output": true
+      }
+    },
+    "lgbm": {
+      "prediction_time": 1.1776049370140147,
+      "peak_mem": 2943.82421875,
+      "onnx-ml": {
+        "conversion_time": "102.18543420295464",
+        "prediction_time": "0.6557452516863123",
+        "peak_mem": "2648.63671875",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "43.09040373499738",
+        "prediction_time": "8.083773251681123",
+        "peak_mem": "4016.53515625",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "84.66800866101403",
+        "prediction_time": "8.216942882320533",
+        "peak_mem": "3369.68359375",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "56.84963260998484",
+        "prediction_time": "5.307782418308004",
+        "peak_mem": "4071.83984375",
+        "is_same_output": true
+      }
+    },
+    "xgb": {
+      "prediction_time": 0.3933934996797082,
+      "peak_mem": 4155.34765625,
+      "onnx-ml": {
+        "conversion_time": "19.225720397022087",
+        "prediction_time": "2.082142041317032",
+        "peak_mem": "2802.18359375",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "84.97377798898378",
+        "prediction_time": "7.946269861325466",
+        "peak_mem": "4272.35546875",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "125.4569682009751",
+        "prediction_time": "7.971158411664267",
+        "peak_mem": "3596.09765625",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "96.0006806429592",
+        "prediction_time": "4.957977917336393",
+        "peak_mem": "4452.30859375",
+        "is_same_output": true
+      }
+    }
+  },
+  "epsilon": {
+    "rf": {
+      "prediction_time": 0.7204033989886133,
+      "peak_mem": 6511.875,
+      "onnx-ml": {
+        "conversion_time": "7.475447089993395",
+        "prediction_time": "0.2147353269974701",
+        "peak_mem": "6511.8203125",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "5.034894318960141",
+        "prediction_time": "1.1282910023389074",
+        "peak_mem": "6697.19921875",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "11.212742392031942",
+        "prediction_time": "1.188480236994413",
+        "peak_mem": "7509.515625",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "7.453439356992021",
+        "prediction_time": "0.8011832776634643",
+        "peak_mem": "7611.046875",
+        "is_same_output": false
+      }
+    },
+    "lgbm": {
+      "prediction_time": 0.26260003036198515,
+      "peak_mem": 7533.515625,
+      "onnx-ml": {
+        "conversion_time": "18.870721959974617",
+        "prediction_time": "0.2648574953394321",
+        "peak_mem": "7376.79296875",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "13.531970779993571",
+        "prediction_time": "0.9239974326725738",
+        "peak_mem": "7522.3828125",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "19.858442903961986",
+        "prediction_time": "1.1207378346589394",
+        "peak_mem": "8712.9453125",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "15.283940016000997",
+        "prediction_time": "0.8283382693189196",
+        "peak_mem": "8593.20703125",
+        "is_same_output": false
+      }
+    },
+    "xgb": {
+      "prediction_time": 0.16762636565060043,
+      "peak_mem": 8517.00390625,
+      "onnx-ml": {
+        "conversion_time": "7.136314077011775",
+        "prediction_time": "0.5514285193251757",
+        "peak_mem": "8333.1171875",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "56.56665564503055",
+        "prediction_time": "1.1762705209936637",
+        "peak_mem": "8504.578125",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "63.10676721902564",
+        "prediction_time": "1.1227414843354684",
+        "peak_mem": "9483.0859375",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "56.94640950503526",
+        "prediction_time": "0.719577586336527",
+        "peak_mem": "9662.1015625",
+        "is_same_output": false
+      }
+    }
+  },
+  "higgs": {
+    "rf": {
+      "prediction_time": 0.449397057973935,
+      "peak_mem": 6803.84765625,
+      "onnx-ml": {
+        "conversion_time": "7.244861869025044",
+        "prediction_time": "0.1381895676604472",
+        "peak_mem": "6803.80859375",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "4.78009924502112",
+        "prediction_time": "0.8866510376683436",
+        "peak_mem": "6964.86328125",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "10.901146495016292",
+        "prediction_time": "0.9558028966809312",
+        "peak_mem": "7983.27734375",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "6.348327591025736",
+        "prediction_time": "0.6802050130014928",
+        "peak_mem": "7898.203125",
+        "is_same_output": false
+      }
+    },
+    "lgbm": {
+      "prediction_time": 0.2326952430109183,
+      "peak_mem": 7897.203125,
+      "onnx-ml": {
+        "conversion_time": "18.56451420299709",
+        "prediction_time": "0.13984389535229033",
+        "peak_mem": "7703.109375",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "13.278670157014858",
+        "prediction_time": "0.6147433876564415",
+        "peak_mem": "7814.7265625",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "19.336126070993487",
+        "prediction_time": "0.9336481690018749",
+        "peak_mem": "8714.9921875",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "15.221104987955187",
+        "prediction_time": "0.7111380273515048",
+        "peak_mem": "8675.83203125",
+        "is_same_output": false
+      }
+    },
+    "xgb": {
+      "prediction_time": 0.08279257698450238,
+      "peak_mem": 8675.86328125,
+      "onnx-ml": {
+        "conversion_time": "6.54852023703279",
+        "prediction_time": "0.5769992186299836",
+        "peak_mem": "8556.29296875",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "56.939933980000205",
+        "prediction_time": "0.7493660386729365",
+        "peak_mem": "8682.515625",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "61.6941114840447",
+        "prediction_time": "0.8210562259773724",
+        "peak_mem": "9916.04296875",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "58.342675989028066",
+        "prediction_time": "0.647390945329486",
+        "peak_mem": "9795.5703125",
+        "is_same_output": false
+      }
+    }
+  }
+}

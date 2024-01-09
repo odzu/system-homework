@@ -1,0 +1,174 @@
+{
+  "covtype": {
+    "rf": {
+      "prediction_time": 4.541687233645159,
+      "peak_mem": 1409.515625,
+      "onnx-ml": {
+        "conversion_time": "16.156906023970805",
+        "prediction_time": "2.251904155011289",
+        "peak_mem": "1800.9453125",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "4.823445969959721",
+        "prediction_time": "10.861208769298779",
+        "peak_mem": "4444.36328125",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "62.61542658798862",
+        "prediction_time": "11.816670753643848",
+        "peak_mem": "3686.04296875",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "20.633519330061972",
+        "prediction_time": "8.763809796694355",
+        "peak_mem": "7766.32421875",
+        "is_same_output": true
+      }
+    },
+    "lgbm": {
+      "prediction_time": 12.51840727799572,
+      "peak_mem": 7795.62109375,
+      "onnx-ml": {
+        "conversion_time": "103.96253212098964",
+        "prediction_time": "7.282325099998464",
+        "peak_mem": "2606.97265625",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "45.404222131939605",
+        "prediction_time": "84.17227383800007",
+        "peak_mem": "19497.44921875",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "470.2195060530212",
+        "prediction_time": "85.87532778899185",
+        "peak_mem": "11680.875",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "148.86709205503576",
+        "prediction_time": "56.98584476233615",
+        "peak_mem": "26350.23046875",
+        "is_same_output": true
+      }
+    },
+    "xgb": {
+      "prediction_time": 4.514791252984044,
+      "peak_mem": 26388.08203125,
+      "onnx-ml": {
+        "conversion_time": "18.84023388393689",
+        "prediction_time": "15.564839802333154",
+        "peak_mem": "2559.91796875",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "85.51167786098085",
+        "prediction_time": "83.52760061532415",
+        "peak_mem": "19633.734375",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "526.6255543770967",
+        "prediction_time": "86.11450299434364",
+        "peak_mem": "11879.0625",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "174.17028678406496",
+        "prediction_time": "54.50023863864286",
+        "peak_mem": "27777.9140625",
+        "is_same_output": true
+      }
+    }
+  },
+  "epsilon": {
+    "rf": {
+      "prediction_time": 6.534133306626852,
+      "peak_mem": 6268.97265625,
+      "onnx-ml": {
+        "conversion_time": "7.447834252961911",
+        "prediction_time": "2.4106616150044524",
+        "peak_mem": "6268.91015625",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "4.960788139957003",
+        "prediction_time": "10.311979436975284",
+        "peak_mem": "8367.11328125",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "65.76387793605682",
+        "prediction_time": "11.25256499935252",
+        "peak_mem": "7409.3203125",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "17.347950639086775",
+        "prediction_time": "8.341415582690388",
+        "peak_mem": "9817.85546875",
+        "is_same_output": false
+      }
+    },
+    "lgbm": {
+      "prediction_time": 2.3815534400055185,
+      "peak_mem": 9053.8828125,
+      "onnx-ml": {
+        "conversion_time": "18.34617627703119",
+        "prediction_time": "2.2198302726416537",
+        "peak_mem": "6270.26953125",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "13.255844880943187",
+        "prediction_time": "10.97506551099165",
+        "peak_mem": "8358.48046875",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "73.14149144699331",
+        "prediction_time": "11.076481331023388",
+        "peak_mem": "7416.26953125",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "25.863740183995105",
+        "prediction_time": "8.12567180666762",
+        "peak_mem": "9818.43359375",
+        "is_same_output": false
+      }
+    },
+    "xgb": {
+      "prediction_time": 1.4844661423315604,
+      "peak_mem": 9055.5703125,
+      "onnx-ml": {
+        "conversion_time": "6.755949905957095",
+        "prediction_time": "5.534380138269626",
+        "peak_mem": "6273.43359375",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "53.74596324702725",
+        "prediction_time": "12.039186034623222",
+        "peak_mem": "8361.59375",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "113.44480293605011",
+        "prediction_time": "12.082238932334198",
+        "peak_mem": "7415.56640625",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "66.60444837098476",
+        "prediction_time": "8.154979498668885",
+        "peak_mem": "10060.0703125",
+        "is_same_output": false
+      }
+    }
+  }
+}

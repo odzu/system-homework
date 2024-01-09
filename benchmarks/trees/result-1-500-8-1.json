@@ -1,0 +1,184 @@
+{
+  "covtype": {
+    "rf": {
+      "prediction_time": 0,
+      "peak_mem": 0,
+      "onnx-ml": {
+        "conversion_time": "8.14891440901556",
+        "prediction_time": "18.817814133993426",
+        "peak_mem": "1651.84375",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "4.398453345987946",
+        "prediction_time": "21.284256927339204",
+        "peak_mem": "4292.625",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "116.3518087050179",
+        "prediction_time": "21.827623015327845",
+        "peak_mem": "3565.06640625",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "26.580147123953793",
+        "prediction_time": "30.677776826312765",
+        "peak_mem": "7598.55078125",
+        "is_same_output": false
+      }
+    },
+    "lgbm": {
+      "train_time": "233.66218250099337",
+      "train_accuracy": "{'Accuracy': 0.9551560630964777, 'Precision': 0.9551600302240408, 'Recall': 0.9551560630964777, 'F1': 0.9550759822650025}",
+      "prediction_time": 154.1261431739937,
+      "peak_mem": 7610.7890625,
+      "onnx-ml": {
+        "conversion_time": "49.305983360041864",
+        "prediction_time": "74.89861079633313",
+        "peak_mem": "2265.2578125",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "44.77927433903096",
+        "prediction_time": "154.5076467699837",
+        "peak_mem": "19178.1484375",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "831.8770070589962",
+        "prediction_time": "152.42132232402219",
+        "peak_mem": "11423.515625",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "195.46744114899775",
+        "prediction_time": "239.95834326868257",
+        "peak_mem": "26227.6953125",
+        "is_same_output": true
+      }
+    },
+    "xgb": {
+      "train_time": "526.7075664270087",
+      "train_accuracy": "{'Accuracy': 0.030205760608590138, 'Precision': 0.030536194279324486, 'Recall': 0.030205760608590138, 'F1': 0.026429740410552384}",
+      "prediction_time": 123.60750051333646,
+      "peak_mem": 26281.47265625,
+      "onnx-ml": {
+        "conversion_time": "37.09147778805345",
+        "prediction_time": "65.35169023333583",
+        "peak_mem": "2205.87109375",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "86.88435255695367",
+        "prediction_time": "152.7964991813254",
+        "peak_mem": "19301.7109375",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "886.7671654979931",
+        "prediction_time": "163.57953591299398",
+        "peak_mem": "11546.73828125",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "235.2381075900048",
+        "prediction_time": "242.59041091169152",
+        "peak_mem": "27513.80859375",
+        "is_same_output": true
+      }
+    }
+  },
+  "epsilon": {
+    "rf": {
+      "train_time": "13804.969351846026",
+      "train_accuracy": "{'Accuracy': 0.75803, 'Log_Loss': 2.7857901550972914, 'AUC': 0.7580274550022384, 'Precision': 0.7591660965106451, 'Recall': 0.7551996797117405}",
+      "prediction_time": 0,
+      "peak_mem": 0,
+      "onnx-ml": {
+        "conversion_time": "6.117922732955776",
+        "prediction_time": "13.644741779658943",
+        "peak_mem": "5941.62109375",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "4.721177721978165",
+        "prediction_time": "17.18873351800721",
+        "peak_mem": "8021.84765625",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "100.75845825101715",
+        "prediction_time": "18.47864546564718",
+        "peak_mem": "7078.0390625",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "24.343241224996746",
+        "prediction_time": "27.948038810010377",
+        "peak_mem": "9488.7109375",
+        "is_same_output": false
+      }
+    },
+    "lgbm": {
+      "train_time": "6044.330104755994",
+      "train_accuracy": "{'Accuracy': 0.87052, 'Log_Loss': 1.4907022944482529, 'AUC': 0.8705543831490504, 'Precision': 0.8440143529105546, 'Recall': 0.9087578820938845}",
+      "prediction_time": 52.17434275965206,
+      "peak_mem": 13723.23046875,
+      "onnx-ml": {
+        "conversion_time": "8.302819744043518",
+        "prediction_time": "10.342342536974078",
+        "peak_mem": "10941.33203125",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "7.26722407899797",
+        "prediction_time": "5.910546743349793",
+        "peak_mem": "11652.734375",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "64.47715118899941",
+        "prediction_time": "11.56143481732579",
+        "peak_mem": "12800.61328125",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "20.654647813003976",
+        "prediction_time": "16.598582932997186",
+        "peak_mem": "14951.75390625",
+        "is_same_output": false
+      }
+    },
+    "xgb": {
+      "train_time": "4585.563075956015",
+      "train_accuracy": "{'Accuracy': 0.87065, 'Log_Loss': 1.4892056154378157, 'AUC': 0.87068558025532, 'Precision': 0.843286350148368, 'Recall': 0.9102191972775497}",
+      "prediction_time": 35.83656905964017,
+      "peak_mem": 14637.546875,
+      "onnx-ml": {
+        "conversion_time": "6.031193192990031",
+        "prediction_time": "9.259179217314037",
+        "peak_mem": "12109.8046875",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "24.299126479949336",
+        "prediction_time": "10.723313990340102",
+        "peak_mem": "14016.84375",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "85.95194995601196",
+        "prediction_time": "12.135079705331009",
+        "peak_mem": "13251.6875",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "37.24986937199719",
+        "prediction_time": "16.43839254034295",
+        "peak_mem": "15832.625",
+        "is_same_output": false
+      }
+    }
+  }
+}

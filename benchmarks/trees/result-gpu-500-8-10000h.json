@@ -1,0 +1,88 @@
+{
+  "higgs": {
+    "rf": {
+      "prediction_time": 0.3970571583486162,
+      "peak_mem": 2609.19140625,
+      "onnx-ml": {
+        "conversion_time": "7.43732052994892",
+        "prediction_time": "0.1395700759991693",
+        "peak_mem": "2778.43359375",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "9.292937858961523",
+        "prediction_time": "0.03357327032911902",
+        "peak_mem": "4489.5625",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "5.24598613800481",
+        "prediction_time": "0.022533873988625903",
+        "peak_mem": "4553.30859375",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "7.429605208046269",
+        "prediction_time": "0.6940900906532382",
+        "peak_mem": "4873.01171875",
+        "is_same_output": false
+      }
+    },
+    "lgbm": {
+      "prediction_time": 0.25135741867901135,
+      "peak_mem": 4884.01953125,
+      "onnx-ml": {
+        "conversion_time": "19.027482975972816",
+        "prediction_time": "0.1624042933496336",
+        "peak_mem": "4750.27734375",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "13.81947902700631",
+        "prediction_time": "0.017929786661018927",
+        "peak_mem": "4762.28125",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "14.22318027698202",
+        "prediction_time": "0.02095665466428424",
+        "peak_mem": "4766.87890625",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "17.43486095604021",
+        "prediction_time": "0.6991293779962385",
+        "peak_mem": "4932.5859375",
+        "is_same_output": false
+      }
+    },
+    "xgb": {
+      "prediction_time": 0.07676196499960497,
+      "peak_mem": 4944.8203125,
+      "onnx-ml": {
+        "conversion_time": "6.938203019963112",
+        "prediction_time": "0.5281535333294111",
+        "peak_mem": "4807.16796875",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "61.088052804989275",
+        "prediction_time": "0.024213283652594935",
+        "peak_mem": "4815.70703125",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "60.13272009999491",
+        "prediction_time": "0.018775075014370184",
+        "peak_mem": "4819.49609375",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "59.172401433985215",
+        "prediction_time": "0.6878980216570199",
+        "peak_mem": "5095.578125",
+        "is_same_output": false
+      }
+    }
+  }
+}

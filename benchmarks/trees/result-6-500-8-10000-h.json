@@ -1,0 +1,92 @@
+{
+  "higgs": {
+    "rf": {
+      "prediction_time": 49.92946049865956,
+      "peak_mem": 2483.58984375,
+      "onnx-ml": {
+        "conversion_time": "3.8455214279238135",
+        "prediction_time": "18.012518206611276",
+        "peak_mem": "2602.4453125",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "5.25026070792228",
+        "prediction_time": "187.22380980740613",
+        "peak_mem": "48420.828125",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "932.9952232800424",
+        "prediction_time": "175.484458962533",
+        "peak_mem": "27614.86328125",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "183.10265596886165",
+        "prediction_time": "258.28672111228417",
+        "peak_mem": "80136.46875",
+        "is_same_output": false
+      }
+    },
+    "lgbm": {
+      "train_time": "363.2838802980259",
+      "train_accuracy": "{'Accuracy': 0.7338181818181818, 'Log_Loss': 3.0645387710770136, 'AUC': 0.7230739874365237, 'Precision': 0.6907248665708376, 'Recall': 0.9015328075347316}",
+      "prediction_time": 33.38219256233424,
+      "peak_mem": 79700.6953125,
+      "onnx-ml": {
+        "conversion_time": "11.651954198954627",
+        "prediction_time": "18.800497497121494",
+        "peak_mem": "2378.4296875",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "10.005898175062612",
+        "prediction_time": "155.40958226425573",
+        "peak_mem": "48537.45703125",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "951.3802633881569",
+        "prediction_time": "174.18810713376539",
+        "peak_mem": "27782.8984375",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "176.3844434588682",
+        "prediction_time": "270.19027335126884",
+        "peak_mem": "80203.015625",
+        "is_same_output": false
+      }
+    },
+    "xgb": {
+      "train_time": "486.69782056007534",
+      "train_accuracy": "{'Accuracy': 0.73374, 'Log_Loss': 3.065438871740632, 'AUC': 0.7230262827529166, 'Precision': 0.6908087645525812, 'Recall': 0.9009788840241942}",
+      "prediction_time": 9.546013502559314,
+      "peak_mem": 79860.72265625,
+      "onnx-ml": {
+        "conversion_time": "4.967144318856299",
+        "prediction_time": "72.25524278000618",
+        "peak_mem": "2529.578125",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "32.088884848868474",
+        "prediction_time": "171.93716373457573",
+        "peak_mem": "48683.2734375",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "1027.366950768046",
+        "prediction_time": "187.74816238166144",
+        "peak_mem": "27902.53125",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "217.02818085998297",
+        "prediction_time": "284.72178113010403",
+        "peak_mem": "81577.77734375",
+        "is_same_output": false
+      }
+    }
+  }
+}

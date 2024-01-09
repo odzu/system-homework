@@ -1,0 +1,1313 @@
+{
+  "3": {
+    "dataset_size": 640,
+    "num_features": 36
+  },
+  "6": {
+    "dataset_size": 4000,
+    "num_features": 16
+  },
+  "11": {
+    "dataset_size": 125,
+    "num_features": 4
+  },
+  "12": {
+    "dataset_size": 400,
+    "num_features": 216,
+    "2087075": {
+      "prediction_time": 0.002932968044963976,
+      "torch": {
+        "conversion_time": "4.145695248967968",
+        "prediction_time": "0.000968851032666862",
+        "speedup": "3.027264198594783"
+      }
+    },
+    "2088123": {
+      "prediction_time": 0.00583400169853121,
+      "torch": {
+        "conversion_time": "0.32437207899056375",
+        "prediction_time": "0.0013872723405559857",
+        "speedup": "4.205375922216601"
+      }
+    },
+    "10416993": {
+      "prediction_time": 2.0781175210140646,
+      "torch": {
+        "conversion_time": "0.3570716220419854",
+        "prediction_time": "0.0013577409942323964",
+        "speedup": "1530.569917121001"
+      }
+    }
+  },
+  "14": {
+    "dataset_size": 400,
+    "num_features": 76,
+    "10416994": {
+      "prediction_time": 2.004172796344695,
+      "torch": {
+        "conversion_time": "0.34914745402056724",
+        "prediction_time": "0.0010460289971282084",
+        "speedup": "1915.9820634485243"
+      }
+    }
+  },
+  "15": {
+    "dataset_size": 140,
+    "num_features": 9,
+    "10416995": {
+      "prediction_time": 1.9737955566185217,
+      "torch": {
+        "conversion_time": "0.36039416608400643",
+        "prediction_time": "0.0005359579809010029",
+        "speedup": "3682.7431010549735"
+      }
+    }
+  },
+  "16": {
+    "dataset_size": 400,
+    "num_features": 64,
+    "10416996": {
+      "prediction_time": 1.9768789710166554,
+      "torch": {
+        "conversion_time": "0.2953019259730354",
+        "prediction_time": "0.0009719473697866002",
+        "speedup": "2033.9362320108926"
+      }
+    }
+  },
+  "18": {
+    "dataset_size": 400,
+    "num_features": 6,
+    "2070699": {
+      "prediction_time": 0.00038636568933725357,
+      "torch": {
+        "conversion_time": "0.43715218896977603",
+        "prediction_time": "0.0005387370086585482",
+        "speedup": "-1.3943707309587"
+      }
+    },
+    "10416997": {
+      "prediction_time": 1.9154253723099828,
+      "torch": {
+        "conversion_time": "0.3142208909848705",
+        "prediction_time": "0.000673343699115018",
+        "speedup": "2844.6473544305004"
+      }
+    }
+  },
+  "22": {
+    "dataset_size": 400,
+    "num_features": 47,
+    "10416998": {
+      "prediction_time": 1.8453860649994265,
+      "torch": {
+        "conversion_time": "0.3134524420602247",
+        "prediction_time": "0.0005650133825838566",
+        "speedup": "3266.092665912286"
+      }
+    }
+  },
+  "23": {
+    "dataset_size": 295,
+    "num_features": 9,
+    "2041992": {
+      "prediction_time": 0.12675335467793047,
+      "torch": {
+        "conversion_time": "0.6503390859579667",
+        "prediction_time": "0.012517908665662011",
+        "speedup": "10.125761264389855"
+      }
+    },
+    "2088465": {
+      "prediction_time": 0.1914910493263354,
+      "torch": {
+        "conversion_time": "0.7925689410185441",
+        "prediction_time": "0.011460516368970275",
+        "speedup": "16.708762778333767"
+      }
+    },
+    "10398261": {
+      "prediction_time": 1.3772932679858059,
+      "torch": {
+        "conversion_time": "0.5367455889936537",
+        "prediction_time": "0",
+        "speedup": "0"
+      }
+    }
+  },
+  "28": {
+    "dataset_size": 1124,
+    "num_features": 64,
+    "10416999": {
+      "prediction_time": 0.013063551625236869,
+      "torch": {
+        "conversion_time": "0.261701222974807",
+        "prediction_time": "0.0016083150015523036",
+        "speedup": "8.122508098617665"
+      }
+    }
+  },
+  "29": {
+    "dataset_size": 138,
+    "num_features": 15
+  },
+  "31": {
+    "dataset_size": 200,
+    "num_features": 20,
+    "2081565": {
+      "prediction_time": 0.10431778531831999,
+      "torch": {
+        "conversion_time": "0.5176411969587207",
+        "prediction_time": "0.035232344370645784",
+        "speedup": "2.9608527953999424"
+      }
+    },
+    "2083189": {
+      "prediction_time": 0.17263973298637816,
+      "torch": {
+        "conversion_time": "0.7942304220050573",
+        "prediction_time": "0.024155762667457264",
+        "speedup": "7.146937787187282"
+      }
+    },
+    "2083190": {
+      "prediction_time": 0.17343577335122973,
+      "torch": {
+        "conversion_time": "0.9484061449766159",
+        "prediction_time": "0.010838480627474686",
+        "speedup": "16.00185296374326"
+      }
+    },
+    "2184000": {
+      "prediction_time": 0.0003096616516510646,
+      "torch": {
+        "conversion_time": "0.2654096040641889",
+        "prediction_time": "0",
+        "speedup": "0"
+      }
+    }
+  },
+  "32": {
+    "dataset_size": 2199,
+    "num_features": 16,
+    "10417000": {
+      "prediction_time": 0.012304233969189227,
+      "torch": {
+        "conversion_time": "0.31957721698563546",
+        "prediction_time": "0.002301914384588599",
+        "speedup": "5.345217898444235"
+      }
+    },
+    "10559737": {
+      "prediction_time": 0.0007071803168704113,
+      "torch": {
+        "conversion_time": "0.254622646025382",
+        "prediction_time": "0.0037707226583734155",
+        "speedup": "-5.332052615746642"
+      }
+    },
+    "10559876": {
+      "prediction_time": 0.0007477406567583481,
+      "torch": {
+        "conversion_time": "0.33978071599267423",
+        "prediction_time": "0.0040651213300103945",
+        "speedup": "-5.436539117230514"
+      }
+    }
+  },
+  "37": {
+    "dataset_size": 154,
+    "num_features": 8
+  },
+  "43": {
+    "dataset_size": 921,
+    "num_features": 57,
+    "10417003": {
+      "prediction_time": 0.012449653702788055,
+      "torch": {
+        "conversion_time": "0.34784386004321277",
+        "prediction_time": "0.0010463503034164507",
+        "speedup": "11.898169917033085"
+      }
+    }
+  },
+  "45": {
+    "dataset_size": 638,
+    "num_features": 60,
+    "2087620": {
+      "prediction_time": 0.19732196535915136,
+      "torch": {
+        "conversion_time": "3.0773852369748056",
+        "prediction_time": "0.21011098268597075",
+        "speedup": "-1.0648129431690068"
+      }
+    },
+    "2088245": {
+      "prediction_time": 0.20269792503677309,
+      "torch": {
+        "conversion_time": "1.689666196005419",
+        "prediction_time": "0.077706445978644",
+        "speedup": "2.608508502531185"
+      }
+    },
+    "10417004": {
+      "prediction_time": 0.027478847342232864,
+      "torch": {
+        "conversion_time": "0.3385000510606915",
+        "prediction_time": "0.005005959654226899",
+        "speedup": "5.489226689837673"
+      }
+    }
+  },
+  "49": {
+    "dataset_size": 192,
+    "num_features": 9
+  },
+  "53": {
+    "dataset_size": 170,
+    "num_features": 18,
+    "2083895": {
+      "prediction_time": 0.003919018316082656,
+      "torch": {
+        "conversion_time": "0.3001252219546586",
+        "prediction_time": "0.0007486653436596195",
+        "speedup": "5.234673074254706"
+      }
+    },
+    "10417006": {
+      "prediction_time": 0.011897555668838322,
+      "torch": {
+        "conversion_time": "0.27723845408763736",
+        "prediction_time": "0.0010214383558680613",
+        "speedup": "11.647845022157288"
+      }
+    }
+  },
+  "219": {
+    "dataset_size": 9063,
+    "num_features": 8
+  },
+  "2074": {
+    "dataset_size": 1286,
+    "num_features": 36,
+    "10417007": {
+      "prediction_time": 0.01208898665693899,
+      "torch": {
+        "conversion_time": "0.3834463369566947",
+        "prediction_time": "0.0017863466637209058",
+        "speedup": "6.767435964393383"
+      }
+    }
+  },
+  "2079": {
+    "dataset_size": 148,
+    "num_features": 19
+  },
+  "3021": {
+    "dataset_size": 755,
+    "num_features": 29
+  },
+  "3022": {
+    "dataset_size": 198,
+    "num_features": 12
+  },
+  "3481": {
+    "dataset_size": 1560,
+    "num_features": 617
+  },
+  "3549": {
+    "dataset_size": 169,
+    "num_features": 70,
+    "10417008": {
+      "prediction_time": 0.8613057546705628,
+      "torch": {
+        "conversion_time": "0.2846503129694611",
+        "prediction_time": "0.0006747016838441292",
+        "speedup": "1276.5727065675194"
+      }
+    }
+  },
+  "3560": {
+    "dataset_size": 160,
+    "num_features": 4,
+    "10417009": {
+      "prediction_time": 0.8590148979953179,
+      "torch": {
+        "conversion_time": "0.28285555297043175",
+        "prediction_time": "0.0006577819973851243",
+        "speedup": "1305.9264336971112"
+      }
+    }
+  },
+  "3573": {
+    "dataset_size": 14000,
+    "num_features": 784
+  },
+  "3902": {
+    "dataset_size": 292,
+    "num_features": 37,
+    "2088175": {
+      "prediction_time": 0.22715708702647439
+    },
+    "10417010": {
+      "prediction_time": 0.012555551637584964
+    }
+  },
+  "3903": {
+    "dataset_size": 313,
+    "num_features": 37,
+    "10417011": {
+      "prediction_time": 0.011854737026927372
+    }
+  },
+  "3904": {
+    "dataset_size": 2177,
+    "num_features": 21,
+    "10417012": {
+      "prediction_time": 0.011978458380326629
+    }
+  },
+  "3913": {
+    "dataset_size": 105,
+    "num_features": 21,
+    "10417013": {
+      "prediction_time": 0.011821065369683007,
+      "torch": {
+        "conversion_time": "0.2876618809532374",
+        "prediction_time": "0.0007865733544652661",
+        "speedup": "15.02856065817191"
+      }
+    }
+  },
+  "3917": {
+    "dataset_size": 422,
+    "num_features": 21,
+    "2088124": {
+      "prediction_time": 0.1969323723266522
+    },
+    "10417014": {
+      "prediction_time": 0.011993289304276308
+    }
+  },
+  "3918": {
+    "dataset_size": 222,
+    "num_features": 21,
+    "2088180": {
+      "prediction_time": 0.17302159600270292
+    },
+    "9984599": {
+      "prediction_time": 0.0004309766227379441
+    },
+    "9984732": {
+      "prediction_time": 0.014074916020035744,
+      "torch": {
+        "conversion_time": "0.3137926870258525",
+        "prediction_time": "0.01779796400417884",
+        "speedup": "-1.264516532734072"
+      }
+    },
+    "9984886": {
+      "prediction_time": 0.004320244033200045
+    },
+    "9997526": {
+      "prediction_time": 0.0005126326965789
+    },
+    "10154856": {
+      "prediction_time": 0.015806536345432203
+    },
+    "10417015": {
+      "prediction_time": 0.01268902161003401
+    }
+  },
+  "7592": {
+    "dataset_size": 9769,
+    "num_features": 14
+  },
+  "9910": {
+    "dataset_size": 751,
+    "num_features": 1776
+  },
+  "9946": {
+    "dataset_size": 114,
+    "num_features": 30,
+    "10417027": {
+      "prediction_time": 0.011962037378301224,
+      "torch": {
+        "conversion_time": "0.23368207993917167",
+        "prediction_time": "0.0006417320109903812",
+        "speedup": "18.640237939572753"
+      }
+    }
+  },
+  "9952": {
+    "dataset_size": 1081,
+    "num_features": 5,
+    "10417020": {
+      "prediction_time": 0.011363936704583466,
+      "torch": {
+        "conversion_time": "0.30066730396356434",
+        "prediction_time": "0.001019554678350687",
+        "speedup": "11.145980638298553"
+      }
+    }
+  },
+  "9957": {
+    "dataset_size": 211,
+    "num_features": 41,
+    "2088224": {
+      "prediction_time": 0.000713151996023953,
+      "torch": {
+        "conversion_time": "0.3784593999153003",
+        "prediction_time": "0.0007174069760367274",
+        "speedup": "-1.0059664419878194"
+      }
+    },
+    "10417024": {
+      "prediction_time": 0.011905829305760562,
+      "torch": {
+        "conversion_time": "0.29441277601290494",
+        "prediction_time": "0.0005907909944653511",
+        "speedup": "20.152354076647693"
+      }
+    }
+  },
+  "9960": {
+    "dataset_size": 1092,
+    "num_features": 24,
+    "10417025": {
+      "prediction_time": 0.012346739027028283,
+      "torch": {
+        "conversion_time": "0.3804027000442147",
+        "prediction_time": "0.0010616810371478398",
+        "speedup": "11.629424087857181"
+      }
+    }
+  },
+  "9964": {
+    "dataset_size": 319,
+    "num_features": 256,
+    "10417026": {
+      "prediction_time": 0.012399641990972063,
+      "torch": {
+        "conversion_time": "0.36292229499667883",
+        "prediction_time": "0.0011556413567935426",
+        "speedup": "10.729662726311794"
+      }
+    }
+  },
+  "9971": {
+    "dataset_size": 117,
+    "num_features": 10
+  },
+  "9976": {
+    "dataset_size": 520,
+    "num_features": 500
+  },
+  "9977": {
+    "dataset_size": 6893,
+    "num_features": 118,
+    "2088505": {
+      "prediction_time": 2.534430573655603,
+      "torch": {
+        "conversion_time": "6.522825920954347",
+        "prediction_time": "7.466090554643112",
+        "speedup": "-2.945865091847515"
+      }
+    }
+  },
+  "9978": {
+    "dataset_size": 507,
+    "num_features": 72,
+    "10417019": {
+      "prediction_time": 0.012037600274197757,
+      "torch": {
+        "conversion_time": "0.47820984793361276",
+        "prediction_time": "0.0010088183141003053",
+        "speedup": "11.932376827370797"
+      }
+    }
+  },
+  "9981": {
+    "dataset_size": 216,
+    "num_features": 856
+  },
+  "9985": {
+    "dataset_size": 1224,
+    "num_features": 51,
+    "10417018": {
+      "prediction_time": 0.01264652470126748,
+      "torch": {
+        "conversion_time": "0.4019844080321491",
+        "prediction_time": "0.0016879463413109381",
+        "speedup": "7.492255169347148"
+      }
+    }
+  },
+  "10093": {
+    "dataset_size": 275,
+    "num_features": 4,
+    "2088185": {
+      "prediction_time": 0.19673474699569246,
+      "torch": {
+        "conversion_time": "0.5905015340540558",
+        "prediction_time": "0.03234561098118623",
+        "speedup": "6.082270237842249"
+      }
+    },
+    "10417016": {
+      "prediction_time": 0.011872302663202087,
+      "torch": {
+        "conversion_time": "0.4724537910660729",
+        "prediction_time": "0.0009857736295089126",
+        "speedup": "12.043639947151524"
+      }
+    }
+  },
+  "10101": {
+    "dataset_size": 150,
+    "num_features": 4,
+    "2088496": {
+      "prediction_time": 0.0012224533129483461,
+      "torch": {
+        "conversion_time": "0.339664687984623",
+        "prediction_time": "0.0006809526821598411",
+        "speedup": "1.7952103647950648"
+      }
+    },
+    "10417017": {
+      "prediction_time": 0.011586255975998938,
+      "torch": {
+        "conversion_time": "0.29634376300964504",
+        "prediction_time": "0.0005274423165246844",
+        "speedup": "21.966868438506676"
+      }
+    }
+  },
+  "14952": {
+    "dataset_size": 2211,
+    "num_features": 30,
+    "10417029": {
+      "prediction_time": 0.022929042655353744,
+      "torch": {
+        "conversion_time": "0.3570814379490912",
+        "prediction_time": "0.006190528666290144",
+        "speedup": "3.70389087772283"
+      }
+    }
+  },
+  "14954": {
+    "dataset_size": 108,
+    "num_features": 37,
+    "10228668": {
+      "prediction_time": 0.0007211093713218967,
+      "torch": {
+        "conversion_time": "0.4039651450002566",
+        "prediction_time": "0.0012622287031263113",
+        "speedup": "-1.750398418498522"
+      }
+    },
+    "10229220": {
+      "prediction_time": 0.00041698602338631946,
+      "torch": {
+        "conversion_time": "0.421607352909632",
+        "prediction_time": "0.001362146654476722",
+        "speedup": "-3.266648228194335"
+      }
+    },
+    "10437994": {
+      "prediction_time": 0.001959572973040243,
+      "torch": {
+        "conversion_time": "0.3488031270680949",
+        "prediction_time": "0.006841822682569425",
+        "speedup": "-3.4914865517636002"
+      }
+    },
+    "10464966": {
+      "prediction_time": 0.0004850576709335049,
+      "torch": {
+        "conversion_time": "0.4279857591027394",
+        "prediction_time": "0.001265568658709526",
+        "speedup": "-2.6091096678749754"
+      }
+    }
+  },
+  "14965": {
+    "dataset_size": 9043,
+    "num_features": 16,
+    "2088567": {
+      "prediction_time": 1.4134961410115163,
+      "torch": {
+        "conversion_time": "15.580967958900146",
+        "prediction_time": "89.84559956899223",
+        "speedup": "-63.56267764883853"
+      }
+    }
+  },
+  "14969": {
+    "dataset_size": 1975,
+    "num_features": 32,
+    "10417030": {
+      "prediction_time": 2.1703826216592765,
+      "torch": {
+        "conversion_time": "0.5082777939969674",
+        "prediction_time": "0.0022017713636159897",
+        "speedup": "985.743868561737"
+      }
+    }
+  },
+  "14970": {
+    "dataset_size": 2060,
+    "num_features": 561
+  },
+  "125920": {
+    "dataset_size": 100,
+    "num_features": 12
+  },
+  "125922": {
+    "dataset_size": 1100,
+    "num_features": 40,
+    "10417032": {
+      "prediction_time": 2.30732788463744,
+      "torch": {
+        "conversion_time": "0.5001562449615449",
+        "prediction_time": "0.0016049169547234972",
+        "speedup": "1437.6618539960266"
+      }
+    }
+  },
+  "146195": {
+    "dataset_size": 13512,
+    "num_features": 42,
+    "10228674": {
+      "prediction_time": 0.007851233667073151,
+      "torch": {
+        "conversion_time": "0.6040751279797405",
+        "prediction_time": "0.01586278333949546",
+        "speedup": "-2.020419212081472"
+      }
+    },
+    "10229226": {
+      "prediction_time": 0.006195450007605056,
+      "torch": {
+        "conversion_time": "0.5429823680315167",
+        "prediction_time": "0.014363447010206679",
+        "speedup": "-2.3183863952699513"
+      }
+    },
+    "10417033": {
+      "prediction_time": 2.142090291987794,
+      "torch": {
+        "conversion_time": "0.443752720952034",
+        "prediction_time": "0.019378765641401213",
+        "speedup": "110.53801524960838"
+      }
+    },
+    "10452621": {
+      "prediction_time": 0.005479858334486683,
+      "torch": {
+        "conversion_time": "0.3387239529984072",
+        "prediction_time": "0.003938098981355627",
+        "speedup": "1.3914983753405634"
+      }
+    },
+    "10464972": {
+      "prediction_time": 0.006533975014463067,
+      "torch": {
+        "conversion_time": "0.694326990051195",
+        "prediction_time": "0.014865974701630572",
+        "speedup": "-2.275180830769092"
+      }
+    },
+    "10592351": {
+      "prediction_time": 0.008287017039644221,
+      "torch": {
+        "conversion_time": "0.5615127580240369",
+        "prediction_time": "0.01274133399905016",
+        "speedup": "-1.5375054664539671"
+      }
+    }
+  },
+  "146800": {
+    "dataset_size": 216,
+    "num_features": 77,
+    "10228675": {
+      "prediction_time": 0.0005286000280951461,
+      "torch": {
+        "conversion_time": "0.349754840019159",
+        "prediction_time": "0.0015358796420817573",
+        "speedup": "-2.905561029984101"
+      }
+    },
+    "10229227": {
+      "prediction_time": 0.0006270413675035039,
+      "torch": {
+        "conversion_time": "0.31404759199358523",
+        "prediction_time": "0.0017247462722783287",
+        "speedup": "-2.75061002616975"
+      }
+    },
+    "10321344": {
+      "prediction_time": 0.007115085027180612,
+      "torch": {
+        "conversion_time": "0.3668219849932939",
+        "prediction_time": "0.057889454338389136",
+        "speedup": "-8.13615777144523"
+      }
+    },
+    "10417035": {
+      "prediction_time": 1.8688313586559768,
+      "torch": {
+        "conversion_time": "0.373067190987058",
+        "prediction_time": "0.0007586679809416333",
+        "speedup": "2463.305959395368"
+      }
+    },
+    "10447025": {
+      "prediction_time": 0.11731981602497399,
+      "torch": {
+        "conversion_time": "0.8798877450171858",
+        "prediction_time": "0.0260815053479746",
+        "speedup": "4.498199565543277"
+      }
+    },
+    "10559635": {
+      "prediction_time": 0.010721562973534068,
+      "torch": {
+        "conversion_time": "0.4366812949301675",
+        "prediction_time": "0.0674749690030391",
+        "speedup": "-6.293389235282161"
+      }
+    }
+  },
+  "146817": {
+    "dataset_size": 389,
+    "num_features": 27,
+    "10228676": {
+      "prediction_time": 0.0005662560385341445,
+      "torch": {
+        "conversion_time": "0.39152672595810145",
+        "prediction_time": "0.0015982436792304118",
+        "speedup": "-2.8224752946878104"
+      }
+    },
+    "10229228": {
+      "prediction_time": 0.0005541053445388874,
+      "torch": {
+        "conversion_time": "0.37669052195269614",
+        "prediction_time": "0.0018425456946715713",
+        "speedup": "-3.325262448433685"
+      }
+    },
+    "10417039": {
+      "prediction_time": 1.8893919870024547,
+      "torch": {
+        "conversion_time": "0.30656099994666874",
+        "prediction_time": "0.0008203680238996943",
+        "speedup": "2303.1029147394815"
+      }
+    },
+    "10424765": {
+      "prediction_time": 0.03305314830504358,
+      "torch": {
+        "conversion_time": "0.3481135090114549",
+        "prediction_time": "0.11112428766985734",
+        "speedup": "-3.3619879911076698"
+      }
+    },
+    "10448599": {
+      "prediction_time": 0.19079019397031516,
+      "torch": {
+        "conversion_time": "1.6743965729838237",
+        "prediction_time": "0.08612958163333435",
+        "speedup": "2.2151529167125834"
+      }
+    },
+    "10558965": {
+      "prediction_time": 0.0005899859825149179,
+      "torch": {
+        "conversion_time": "0.32566102396231145",
+        "prediction_time": "0.000819035650541385",
+        "speedup": "-1.388229000035057"
+      }
+    },
+    "10560234": {
+      "prediction_time": 0.00681878001584361,
+      "torch": {
+        "conversion_time": "0.3264791240217164",
+        "prediction_time": "0.0011159013180683057",
+        "speedup": "6.110558259441203"
+      }
+    }
+  },
+  "146819": {
+    "dataset_size": 108,
+    "num_features": 18,
+    "10228677": {
+      "prediction_time": 0.0003689893443758289,
+      "torch": {
+        "conversion_time": "0.3598551199538633",
+        "prediction_time": "0.0005610089671487609",
+        "speedup": "-1.5203934089146842"
+      }
+    },
+    "10229229": {
+      "prediction_time": 0.00035817067449291545,
+      "torch": {
+        "conversion_time": "0.37839278602041304",
+        "prediction_time": "0.001345856658493479",
+        "speedup": "-3.7575847335879526"
+      }
+    },
+    "10324549": {
+      "prediction_time": 0.0007933869880313674,
+      "torch": {
+        "conversion_time": "0.21764811291359365",
+        "prediction_time": "0.0015990053458760183",
+        "speedup": "-2.015416650383482"
+      }
+    },
+    "10376191": {
+      "prediction_time": 0.000869031723899146,
+      "torch": {
+        "conversion_time": "0.34840575500857085",
+        "prediction_time": "0.0066627033132438855",
+        "speedup": "-7.666812534011836"
+      }
+    },
+    "10417042": {
+      "prediction_time": 1.8302195632907872,
+      "torch": {
+        "conversion_time": "0.2972577459877357",
+        "prediction_time": "0.0006498563258598248",
+        "speedup": "2816.3449218859632"
+      }
+    },
+    "10450046": {
+      "prediction_time": 0.08725918693623196,
+      "torch": {
+        "conversion_time": "0.41453906998503953",
+        "prediction_time": "0.01033253432251513",
+        "speedup": "8.445090450470573"
+      }
+    },
+    "10558590": {
+      "prediction_time": 0.0004397033092876275,
+      "torch": {
+        "conversion_time": "0.3586018850328401",
+        "prediction_time": "0",
+        "speedup": "0"
+      }
+    },
+    "10560189": {
+      "prediction_time": 0.009440060355700552,
+      "torch": {
+        "conversion_time": "0.2194422510219738",
+        "prediction_time": "0.0008755320062239965",
+        "speedup": "10.782084822248523"
+      }
+    }
+  },
+  "146820": {
+    "dataset_size": 968,
+    "num_features": 5,
+    "10322562": {
+      "prediction_time": 0.004554524358051519,
+      "torch": {
+        "conversion_time": "0.35994287696667016",
+        "prediction_time": "0.004980291007086635",
+        "speedup": "-1.0934821323948882"
+      }
+    },
+    "10417040": {
+      "prediction_time": 1.8915684079984203,
+      "torch": {
+        "conversion_time": "0.25551746401470155",
+        "prediction_time": "0.0006509156664833426",
+        "speedup": "2906.0114933442405"
+      }
+    },
+    "10441503": {
+      "prediction_time": 0.14350857201498002,
+      "torch": {
+        "conversion_time": "0.6043895719340071",
+        "prediction_time": "0.0875064773329844",
+        "speedup": "1.6399765638935893"
+      }
+    },
+    "10560195": {
+      "prediction_time": 0.004053384996950626,
+      "torch": {
+        "conversion_time": "0.2673139910912141",
+        "prediction_time": "0.0019442559763168295",
+        "speedup": "2.084800070734153"
+      }
+    }
+  },
+  "146821": {
+    "dataset_size": 346,
+    "num_features": 6,
+    "10228679": {
+      "prediction_time": 0.0003860050346702337,
+      "torch": {
+        "conversion_time": "0.29614813497755677",
+        "prediction_time": "0.001315173654196163",
+        "speedup": "-3.4071411926523787"
+      }
+    },
+    "10229231": {
+      "prediction_time": 0.00036091997753828764,
+      "torch": {
+        "conversion_time": "0.3392530500423163",
+        "prediction_time": "0.0011996760343511899",
+        "speedup": "-3.323939125048638"
+      }
+    },
+    "10417037": {
+      "prediction_time": 2.104218670981936,
+      "torch": {
+        "conversion_time": "0.3709557040128857",
+        "prediction_time": "0.0010176226108645399",
+        "speedup": "2067.779006201777"
+      }
+    },
+    "10437967": {
+      "prediction_time": 0.005706149036996067,
+      "torch": {
+        "conversion_time": "0.3796374120283872",
+        "prediction_time": "0.031228594675970573",
+        "speedup": "-5.472796885166969"
+      }
+    },
+    "10438028": {
+      "prediction_time": 0.004889431991614401,
+      "torch": {
+        "conversion_time": "0.35984985099639744",
+        "prediction_time": "0.03568921129529675",
+        "speedup": "-7.299255078402844"
+      }
+    },
+    "10452593": {
+      "prediction_time": 0.0004494673727701108,
+      "torch": {
+        "conversion_time": "0.44049302593339235",
+        "prediction_time": "0.0008787650149315596",
+        "speedup": "-1.95512526196428"
+      }
+    }
+  },
+  "146822": {
+    "dataset_size": 462,
+    "num_features": 16,
+    "10228680": {
+      "prediction_time": 0.0008499613419796029,
+      "torch": {
+        "conversion_time": "0.47924790205433965",
+        "prediction_time": "0.0020501166582107544",
+        "speedup": "-2.4120116491838663"
+      }
+    },
+    "10229232": {
+      "prediction_time": 0.0005527103397374352,
+      "torch": {
+        "conversion_time": "0.35331471799872816",
+        "prediction_time": "0.0021842019632458687",
+        "speedup": "-3.9518022483231863"
+      }
+    },
+    "10322286": {
+      "prediction_time": 0.006594597361981869,
+      "torch": {
+        "conversion_time": "0.4699479379924014",
+        "prediction_time": "0.05289770100110521",
+        "speedup": "-8.021369326664685"
+      }
+    },
+    "10417086": {
+      "prediction_time": 0.012169979396276176,
+      "torch": {
+        "conversion_time": "0.42577327496837825",
+        "prediction_time": "0.0008779213530942798",
+        "speedup": "13.862266082699147"
+      }
+    },
+    "10437970": {
+      "prediction_time": 0.010801718298656246,
+      "torch": {
+        "conversion_time": "0.41520871699322015",
+        "prediction_time": "0.07698843635929127",
+        "speedup": "-7.127424936537067"
+      }
+    },
+    "10438031": {
+      "prediction_time": 0.009567194346648952,
+      "torch": {
+        "conversion_time": "0.48835370305459946",
+        "prediction_time": "0.0910683690259854",
+        "speedup": "-9.518816669370098"
+      }
+    },
+    "10438761": {
+      "prediction_time": 0.05411871002676586,
+      "torch": {
+        "conversion_time": "0.593822750961408",
+        "prediction_time": "0.016033108384969335",
+        "speedup": "3.3754346772520347"
+      }
+    },
+    "10452594": {
+      "prediction_time": 0.0005022666494672497,
+      "torch": {
+        "conversion_time": "0.36570269195362926",
+        "prediction_time": "0.0007972176730011901",
+        "speedup": "-1.5872399129960002"
+      }
+    },
+    "10558495": {
+      "prediction_time": 0.0007559200360750159,
+      "torch": {
+        "conversion_time": "0.3321783769642934",
+        "prediction_time": "0.000822819652967155",
+        "speedup": "-1.0885009176889977"
+      }
+    },
+    "10559653": {
+      "prediction_time": 0.016990444040857255,
+      "torch": {
+        "conversion_time": "0.3775890840915963",
+        "prediction_time": "0.06111937796231359",
+        "speedup": "-3.597279612901147"
+      }
+    }
+  },
+  "146824": {
+    "dataset_size": 400,
+    "num_features": 240,
+    "10319976": {
+      "prediction_time": 0.033815279991055526,
+      "torch": {
+        "conversion_time": "0.37255684402771294",
+        "prediction_time": "0.13975850263765702",
+        "speedup": "-4.132998534231404"
+      }
+    },
+    "10417038": {
+      "prediction_time": 0.012700033995012442,
+      "torch": {
+        "conversion_time": "0.469119681045413",
+        "prediction_time": "0.0014094380118573706",
+        "speedup": "9.010707734692225"
+      }
+    },
+    "10442518": {
+      "prediction_time": 0.20281452666192004,
+      "torch": {
+        "conversion_time": "1.5497574179898947",
+        "prediction_time": "0.06698031230674435",
+        "speedup": "3.0279722455324882"
+      }
+    }
+  },
+  "146825": {
+    "dataset_size": 14000,
+    "num_features": 784,
+    "10228682": {
+      "prediction_time": 0.09205964172724634,
+      "torch": {
+        "conversion_time": "0.44690056203398854",
+        "prediction_time": "0.031211750969911616",
+        "speedup": "2.949518654560348"
+      }
+    },
+    "10229234": {
+      "prediction_time": 0.09063260001130402,
+      "torch": {
+        "conversion_time": "0.5040157350013033",
+        "prediction_time": "0.032970989627453186",
+        "speedup": "2.7488589525332014"
+      }
+    },
+    "10398511": {
+      "prediction_time": 0.13914314769984534,
+      "torch": {
+        "conversion_time": "0.3862554340157658",
+        "prediction_time": "0.03413045701260368",
+        "speedup": "4.076802946074312"
+      }
+    },
+    "10452596": {
+      "prediction_time": 0.08409128233324736,
+      "torch": {
+        "conversion_time": "0.4256591040175408",
+        "prediction_time": "0.010952831672814986",
+        "speedup": "7.67758373772534"
+      }
+    }
+  },
+  "167119": {
+    "dataset_size": 8964,
+    "num_features": 6,
+    "10228683": {
+      "prediction_time": 0.0018145173089578748,
+      "torch": {
+        "conversion_time": "0.44209249201230705",
+        "prediction_time": "0.0098751539674898",
+        "speedup": "-5.44230353644924"
+      }
+    },
+    "10229235": {
+      "prediction_time": 0.0024069059872999787,
+      "torch": {
+        "conversion_time": "0.44898273004218936",
+        "prediction_time": "0.008790062662834922",
+        "speedup": "-3.652017448631405"
+      }
+    },
+    "10393880": {
+      "prediction_time": 9.720137454336509,
+      "torch": {
+        "conversion_time": "0.38758086902089417",
+        "prediction_time": "8.497739828696163",
+        "speedup": "1.143849735374624"
+      }
+    },
+    "10396650": {
+      "prediction_time": 4.054692543655013,
+      "torch": {
+        "conversion_time": "0.44625754200387746",
+        "prediction_time": "3.056757511027778",
+        "speedup": "1.3264684977552235"
+      }
+    },
+    "10417043": {
+      "prediction_time": 0.012616055978772541,
+      "torch": {
+        "conversion_time": "0.3744470459641889",
+        "prediction_time": "0.004325714001121621",
+        "speedup": "2.9165256823500827"
+      }
+    },
+    "10444362": {
+      "prediction_time": 0.11741039533323298,
+      "torch": {
+        "conversion_time": "4.009662569034845",
+        "prediction_time": "1.1858004417348031",
+        "speedup": "-10.099620552075278"
+      }
+    }
+  },
+  "167120": {
+    "dataset_size": 19264,
+    "num_features": 21,
+    "10228684": {
+      "prediction_time": 0.007775775350940724,
+      "torch": {
+        "conversion_time": "0.6091129640117288",
+        "prediction_time": "0.024346946001363296",
+        "speedup": "-3.1311277528636126"
+      }
+    },
+    "10229236": {
+      "prediction_time": 0.009517321673532328,
+      "torch": {
+        "conversion_time": "0.6678704420337453",
+        "prediction_time": "0.03153276660790046",
+        "speedup": "-3.3131975244246594"
+      }
+    },
+    "10395130": {
+      "prediction_time": 22.441132444616716,
+      "torch": {
+        "conversion_time": "0.3650754749542102",
+        "prediction_time": "18.194520020624623",
+        "speedup": "1.2334006293751247"
+      }
+    },
+    "10397074": {
+      "prediction_time": 83.86604008664533,
+      "torch": {
+        "conversion_time": "0.3922758729895577",
+        "prediction_time": "35.14159381967814",
+        "speedup": "2.3865178260549778"
+      }
+    },
+    "10451658": {
+      "prediction_time": 0.20088013471104205,
+      "torch": {
+        "conversion_time": "3.144473080057651",
+        "prediction_time": "1.001229448011145",
+        "speedup": "-4.984213344198385"
+      }
+    }
+  },
+  "167121": {
+    "dataset_size": 18400,
+    "num_features": 1024,
+    "10228685": {
+      "prediction_time": 0.17562701700565717,
+      "torch": {
+        "conversion_time": "0.6060738720698282",
+        "prediction_time": "0.039569995986918606",
+        "speedup": "4.438388547315433"
+      }
+    },
+    "10229237": {
+      "prediction_time": 0.17296918330248445,
+      "torch": {
+        "conversion_time": "0.6175990940537304",
+        "prediction_time": "0.041880529335079096",
+        "speedup": "4.1300620132708215"
+      }
+    }
+  },
+  "167124": {
+    "dataset_size": 12000,
+    "num_features": 3072
+  },
+  "167125": {
+    "dataset_size": 656,
+    "num_features": 1558,
+    "10350488": {
+      "prediction_time": 0.12814560901218405,
+      "torch": {
+        "conversion_time": "0.31443785305600613",
+        "prediction_time": "0.019245951669290662",
+        "speedup": "6.6583150167968315"
+      }
+    }
+  },
+  "167140": {
+    "dataset_size": 638,
+    "num_features": 180,
+    "10560465": {
+      "prediction_time": 0.002212840636881689,
+      "torch": {
+        "conversion_time": "0.396664533065632",
+        "prediction_time": "0.0009292866258571545",
+        "speedup": "2.381225098166684"
+      }
+    }
+  },
+  "167141": {
+    "dataset_size": 1000,
+    "num_features": 20,
+    "10228363": {
+      "prediction_time": 0.0033323343377560377
+    },
+    "10350611": {
+      "prediction_time": 0.03470867328966657,
+      "torch": {
+        "conversion_time": "0.30999920004978776",
+        "prediction_time": "0.03142110432963818",
+        "speedup": "1.1046293257403867"
+      }
+    },
+    "10560241": {
+      "prediction_time": 0.005228628326828281,
+      "torch": {
+        "conversion_time": "0.3260892740217969",
+        "prediction_time": "0.0018060780130326748",
+        "speedup": "2.895017983220245"
+      }
+    }
+  }
+}

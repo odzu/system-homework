@@ -1,0 +1,375 @@
+{
+  "iris": {
+    "LogisticRegression": {
+      "train_time": "0.09937557397643104",
+      "prediction_time": 0.30510437401244417,
+      "peak_mem": 1643.640625,
+      "onnx-ml": {
+        "conversion_time": "0.012510343978647143",
+        "prediction_time": "2.8579537099964605",
+        "peak_mem": "2301.36328125",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "4.614981819002423",
+        "prediction_time": "0.027372709320237238",
+        "peak_mem": "3392.80859375",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "0.5577888319967315",
+        "prediction_time": "0.02095047167191903",
+        "peak_mem": "3453.0390625",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "1.3762200490455143",
+        "prediction_time": "0.16534350566022718",
+        "peak_mem": "3563.68359375",
+        "is_same_output": true
+      }
+    },
+    "SGDClassifier": {
+      "train_time": "0.15468131698435172",
+      "prediction_time": 0.35157528032626334,
+      "peak_mem": 3834.39453125,
+      "onnx-ml": {
+        "conversion_time": "0.021388862980529666",
+        "prediction_time": "3.108941094658803",
+        "peak_mem": "4428.82421875",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "0.21243570401566103",
+        "prediction_time": "0.018075626343488693",
+        "peak_mem": "3836.47265625",
+        "is_same_output": false
+      },
+      "hb-torchscript": {
+        "conversion_time": "0.5484198079793714",
+        "prediction_time": "0.018288284346150856",
+        "peak_mem": "3835.97265625",
+        "is_same_output": false
+      },
+      "hb-onnx": {
+        "conversion_time": "1.0575114670209587",
+        "prediction_time": "0.13998487133843204",
+        "peak_mem": "3862.79296875",
+        "is_same_output": false
+      }
+    },
+    "LinearSVC": {
+      "train_time": "0.036024615983478725",
+      "prediction_time": 0.3118385743388596,
+      "peak_mem": 4150.06640625,
+      "onnx-ml": {
+        "conversion_time": "0.018859476957004517",
+        "prediction_time": "0.03978160000406206",
+        "peak_mem": "3997.05859375",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "0.31800605199532583",
+        "prediction_time": "0.016578553011640906",
+        "peak_mem": "3997.1171875",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "0.7877059790189378",
+        "prediction_time": "0.01709391033121695",
+        "peak_mem": "3997.1171875",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "8.152707523026038",
+        "prediction_time": "0.13752818398643285",
+        "peak_mem": "3997.1171875",
+        "is_same_output": true
+      }
+    },
+    "NuSVC": {
+      "train_time": "0.014476019016001374",
+      "prediction_time": 10.254297424980905,
+      "peak_mem": 4310.52734375,
+      "onnx-ml": {
+        "conversion_time": "0.01935098198009655",
+        "prediction_time": "5.400860348328327",
+        "peak_mem": "4470.80859375",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "0.3723219460225664",
+        "prediction_time": "0.4311386869909863",
+        "peak_mem": "4160.29296875",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "2.2350132039864548",
+        "prediction_time": "0.011153060632447401",
+        "peak_mem": "4160.70703125",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "9.278554855030961",
+        "prediction_time": "0",
+        "peak_mem": "0",
+        "is_same_output": "None"
+      }
+    },
+    "SVC": {
+      "train_time": "0.005775172961875796",
+      "prediction_time": 7.298214327000703,
+      "peak_mem": 7354.47265625,
+      "onnx-ml": {
+        "conversion_time": "0.018663407012354583",
+        "prediction_time": "4.143454177654348",
+        "peak_mem": "7354.47265625",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "0.2295960999908857",
+        "prediction_time": "0.3718245593287672",
+        "peak_mem": "7354.47265625",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "1.7588258409523405",
+        "prediction_time": "0.011482711978411922",
+        "peak_mem": "7354.47265625",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "9.505468470975757",
+        "prediction_time": "0",
+        "peak_mem": "0",
+        "is_same_output": "None"
+      }
+    },
+    "BernoulliNB": {
+      "train_time": "0.004775507026351988",
+      "prediction_time": 0.47486377231931937,
+      "peak_mem": 7355.328125,
+      "onnx-ml": {
+        "conversion_time": "0.019772371044382453",
+        "prediction_time": "2.9876758083507107",
+        "peak_mem": "7953.43359375",
+        "is_same_output": false
+      },
+      "hb-pytorch": {
+        "conversion_time": "0.304646976001095",
+        "prediction_time": "0.042721279663965106",
+        "peak_mem": "7357.2421875",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "0.6021106130210683",
+        "prediction_time": "0.04466160499335577",
+        "peak_mem": "7356.76171875",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "1.506052644981537",
+        "prediction_time": "0.31163006933638826",
+        "peak_mem": "7357.1953125",
+        "is_same_output": true
+      }
+    },
+    "MLPClassifier": {
+      "train_time": "0.4050589599646628",
+      "prediction_time": 1.136613934688891,
+      "peak_mem": 7966.31640625,
+      "onnx-ml": {
+        "conversion_time": "0.013868182024452835",
+        "prediction_time": "3.347743542670893",
+        "peak_mem": "8581.46875",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "0.19500311801675707",
+        "prediction_time": "0.04497784498380497",
+        "peak_mem": "7586.421875",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "0.6458992359694093",
+        "prediction_time": "0.03164225469420975",
+        "peak_mem": "7585.984375",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "2.054153593024239",
+        "prediction_time": "0.5138109506612333",
+        "peak_mem": "8391.30859375",
+        "is_same_output": true
+      }
+    },
+    "DecisionTreeClassifier": {
+      "train_time": "0.003648475045338273",
+      "prediction_time": 0.0760003766627051,
+      "peak_mem": 7586.640625,
+      "onnx-ml": {
+        "conversion_time": "0.017389115993864834",
+        "prediction_time": "2.5469016753486358",
+        "peak_mem": "8179.0859375",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "0.2066777540021576",
+        "prediction_time": "0.01986565099408229",
+        "peak_mem": "7588.4609375",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "0.5854670619592071",
+        "prediction_time": "0.019199541653506458",
+        "peak_mem": "7588.328125",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "1.0877431020489894",
+        "prediction_time": "0.7459894266794436",
+        "peak_mem": "7588.390625",
+        "is_same_output": true
+      }
+    },
+    "Binarizer": {
+      "train_time": "0.00134088599588722",
+      "prediction_time": 0.09767068699390317,
+      "peak_mem": 7588.15625,
+      "onnx-ml": {
+        "conversion_time": "0.015555654012132436",
+        "prediction_time": "0.07403001998318359",
+        "peak_mem": "7588.15625",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "0.20469611196313053",
+        "prediction_time": "0.03384572498422737",
+        "peak_mem": "7588.21875",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "0.5989311540033668",
+        "prediction_time": "0.09965314465807751",
+        "peak_mem": "7664.515625",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "0.43555212899809703",
+        "prediction_time": "0.08226072297353919",
+        "peak_mem": "7664.515625",
+        "is_same_output": true
+      }
+    },
+    "MinMaxScaler": {
+      "train_time": "0.0010802059550769627",
+      "prediction_time": 0.08291892866448809,
+      "peak_mem": 7587.96875,
+      "onnx-ml": {
+        "conversion_time": "0.005738134030252695",
+        "prediction_time": "0.24364968036146215",
+        "peak_mem": "7740.5625",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "0.204720180016011",
+        "prediction_time": "0.10538260799755032",
+        "peak_mem": "7664.328125",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "0.6493917980114929",
+        "prediction_time": "0.10469320932558428",
+        "peak_mem": "7664.328125",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "0.8312435990083031",
+        "prediction_time": "0.2850659169877569",
+        "peak_mem": "8274.68359375",
+        "is_same_output": true
+      }
+    },
+    "Normalizer": {
+      "train_time": "0.001090879028197378",
+      "prediction_time": 0.16366055600034693,
+      "peak_mem": 7588.05078125,
+      "onnx-ml": {
+        "conversion_time": "0.016548629966564476",
+        "prediction_time": "0.1550988549909865",
+        "peak_mem": "7664.34765625",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "0.20389513002010062",
+        "prediction_time": "0.19666147934428105",
+        "peak_mem": "7664.47265625",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "4.285298287984915",
+        "prediction_time": "0",
+        "peak_mem": "0",
+        "is_same_output": "None"
+      },
+      "hb-onnx": {
+        "conversion_time": "0.4926943929749541",
+        "prediction_time": "0.2364852266618982",
+        "peak_mem": "7748.3984375",
+        "is_same_output": true
+      }
+    },
+    "PolynomialFeatures": {
+      "train_time": "0.0006287629948928952",
+      "prediction_time": 3.6551684016594663,
+      "peak_mem": 9350.56640625,
+      "onnx-ml": {
+        "conversion_time": "0.5412623409647495",
+        "prediction_time": "8.21746710499671",
+        "peak_mem": "11860.51953125",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "0.1937049789703451",
+        "prediction_time": "1.3510882819925125",
+        "peak_mem": "11051.6328125",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "8.97791200899519",
+        "prediction_time": "12.098206470002575",
+        "peak_mem": "17619.36328125",
+        "is_same_output": true
+      }
+    },
+    "StandardScaler": {
+      "train_time": "0.0022169110015966",
+      "prediction_time": 0.21561510432123518,
+      "peak_mem": 7591.30078125,
+      "onnx-ml": {
+        "conversion_time": "0.015307677967939526",
+        "prediction_time": "0.49712064233608544",
+        "peak_mem": "7666.1484375",
+        "is_same_output": true
+      },
+      "hb-pytorch": {
+        "conversion_time": "0.18847498297691345",
+        "prediction_time": "0.11179858333586405",
+        "peak_mem": "7667.59765625",
+        "is_same_output": true
+      },
+      "hb-torchscript": {
+        "conversion_time": "0.6184873539605178",
+        "prediction_time": "0.1065549823300292",
+        "peak_mem": "7667.59765625",
+        "is_same_output": true
+      },
+      "hb-onnx": {
+        "conversion_time": "0.83714819396846",
+        "prediction_time": "0.2840115486954649",
+        "peak_mem": "8277.953125",
+        "is_same_output": true
+      }
+    }
+  }
+}

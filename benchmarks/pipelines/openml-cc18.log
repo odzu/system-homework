@@ -1,0 +1,167 @@
+Task: 3, Total: 24,  Not Pure SK: 11, Unsupported: 13, Train Failures: 0, Generated: 0, Coverage: 0.0
+
+Task: 6, Total: 7,  Not Pure SK: 4, Unsupported: 3, Train Failures: 0, Generated: 0, Coverage: 0.0
+
+Task: 11, Total: 56,  Not Pure SK: 16, Unsupported: 36, Train Failures: 4, Generated: 0, Coverage: 0.0
+
+Task: 12, Total: 55,  Not Pure SK: 12, Unsupported: 37, Train Failures: 3, Generated: 3, Coverage: 0.07499999999999996
+
+Task: 14, Total: 52,  Not Pure SK: 13, Unsupported: 36, Train Failures: 2, Generated: 1, Coverage: 0.027027027027026973
+
+Task: 15, Total: 64,  Not Pure SK: 26, Unsupported: 36, Train Failures: 1, Generated: 1, Coverage: 0.027027027027026973
+
+Task: 16, Total: 49,  Not Pure SK: 12, Unsupported: 34, Train Failures: 2, Generated: 1, Coverage: 0.02857142857142858
+
+Task: 18, Total: 57,  Not Pure SK: 17, Unsupported: 35, Train Failures: 3, Generated: 2, Coverage: 0.05405405405405406
+
+Task: 22, Total: 52,  Not Pure SK: 13, Unsupported: 35, Train Failures: 3, Generated: 1, Coverage: 0.02777777777777779
+
+Task: 23, Total: 63,  Not Pure SK: 23, Unsupported: 35, Train Failures: 2, Generated: 3, Coverage: 0.07894736842105265
+
+Task: 28, Total: 50,  Not Pure SK: 11, Unsupported: 35, Train Failures: 3, Generated: 1, Coverage: 0.02777777777777779
+
+Task: 29, Total: 57,  Not Pure SK: 21, Unsupported: 35, Train Failures: 1, Generated: 0, Coverage: 0.0
+
+Task: 31, Total: 59,  Not Pure SK: 16, Unsupported: 37, Train Failures: 2, Generated: 4, Coverage: 0.09756097560975607
+
+Task: 32, Total: 54,  Not Pure SK: 12, Unsupported: 36, Train Failures: 3, Generated: 3, Coverage: 0.07692307692307687
+
+Task: 37, Total: 42,  Not Pure SK: 10, Unsupported: 31, Train Failures: 1, Generated: 0, Coverage: 0.0
+
+Task: 43, Total: 50,  Not Pure SK: 11, Unsupported: 36, Train Failures: 2, Generated: 1, Coverage: 0.027027027027026973
+
+Task: 45, Total: 54,  Not Pure SK: 14, Unsupported: 35, Train Failures: 2, Generated: 3, Coverage: 0.07894736842105265
+
+Task: 49, Total: 42,  Not Pure SK: 10, Unsupported: 31, Train Failures: 1, Generated: 0, Coverage: 0.0
+
+Task: 53, Total: 53,  Not Pure SK: 14, Unsupported: 34, Train Failures: 3, Generated: 2, Coverage: 0.05555555555555558
+
+Task: 219, Total: 51,  Not Pure SK: 15, Unsupported: 34, Train Failures: 2, Generated: 0, Coverage: 0.0
+
+Task: 2074, Total: 52,  Not Pure SK: 13, Unsupported: 36, Train Failures: 2, Generated: 1, Coverage: 0.027027027027026973
+
+Task: 2079, Total: 49,  Not Pure SK: 14, Unsupported: 34, Train Failures: 1, Generated: 0, Coverage: 0.0
+
+Task: 3021, Total: 47,  Not Pure SK: 13, Unsupported: 33, Train Failures: 1, Generated: 0, Coverage: 0.0
+
+Task: 3022, Total: 48,  Not Pure SK: 13, Unsupported: 34, Train Failures: 1, Generated: 0, Coverage: 0.0
+
+Task: 3481, Total: 38,  Not Pure SK: 14, Unsupported: 23, Train Failures: 1, Generated: 0, Coverage: 0.0
+
+Task: 3549, Total: 48,  Not Pure SK: 12, Unsupported: 33, Train Failures: 2, Generated: 1, Coverage: 0.02941176470588236
+
+Task: 3560, Total: 49,  Not Pure SK: 13, Unsupported: 34, Train Failures: 1, Generated: 1, Coverage: 0.02857142857142858
+
+Task: 3573, Total: 23,  Not Pure SK: 9, Unsupported: 13, Train Failures: 1, Generated: 0, Coverage: 0.0
+
+Task: 3902, Total: 50,  Not Pure SK: 14, Unsupported: 34, Train Failures: 0, Generated: 2, Coverage: 0.05555555555555558
+
+Task: 3903, Total: 46,  Not Pure SK: 13, Unsupported: 32, Train Failures: 0, Generated: 1, Coverage: 0.030303030303030276
+
+Task: 3904, Total: 49,  Not Pure SK: 14, Unsupported: 34, Train Failures: 0, Generated: 1, Coverage: 0.02857142857142858
+
+Task: 3913, Total: 48,  Not Pure SK: 12, Unsupported: 34, Train Failures: 1, Generated: 1, Coverage: 0.02857142857142858
+
+Task: 3917, Total: 47,  Not Pure SK: 12, Unsupported: 33, Train Failures: 0, Generated: 2, Coverage: 0.05714285714285716
+
+Task: 3918, Total: 52,  Not Pure SK: 12, Unsupported: 33, Train Failures: 0, Generated: 7, Coverage: 0.17500000000000004
+
+Task: 7592, Total: 52,  Not Pure SK: 16, Unsupported: 35, Train Failures: 1, Generated: 0, Coverage: 0.0
+
+Task: 9910, Total: 11,  Not Pure SK: 8, Unsupported: 2, Train Failures: 1, Generated: 0, Coverage: 0.0
+
+Task: 9946, Total: 48,  Not Pure SK: 13, Unsupported: 33, Train Failures: 1, Generated: 1, Coverage: 0.02941176470588236
+
+Task: 9952, Total: 46,  Not Pure SK: 13, Unsupported: 31, Train Failures: 1, Generated: 1, Coverage: 0.03125
+
+Task: 9957, Total: 48,  Not Pure SK: 13, Unsupported: 32, Train Failures: 1, Generated: 2, Coverage: 0.05882352941176472
+
+Task: 9960, Total: 49,  Not Pure SK: 15, Unsupported: 32, Train Failures: 1, Generated: 1, Coverage: 0.030303030303030276
+
+Task: 9964, Total: 49,  Not Pure SK: 15, Unsupported: 31, Train Failures: 2, Generated: 1, Coverage: 0.03125
+
+Task: 9971, Total: 47,  Not Pure SK: 12, Unsupported: 34, Train Failures: 1, Generated: 0, Coverage: 0.0
+
+Task: 9976, Total: 29,  Not Pure SK: 13, Unsupported: 15, Train Failures: 1, Generated: 0, Coverage: 0.0
+
+Task: 9977, Total: 49,  Not Pure SK: 14, Unsupported: 33, Train Failures: 1, Generated: 1, Coverage: 0.02941176470588236
+
+Task: 9978, Total: 47,  Not Pure SK: 13, Unsupported: 32, Train Failures: 1, Generated: 1, Coverage: 0.030303030303030276
+
+Task: 9981, Total: 32,  Not Pure SK: 14, Unsupported: 17, Train Failures: 1, Generated: 0, Coverage: 0.0
+
+Task: 9985, Total: 49,  Not Pure SK: 14, Unsupported: 33, Train Failures: 1, Generated: 1, Coverage: 0.02941176470588236
+
+Task: 10093, Total: 49,  Not Pure SK: 13, Unsupported: 32, Train Failures: 2, Generated: 2, Coverage: 0.05882352941176472
+
+Task: 10101, Total: 51,  Not Pure SK: 15, Unsupported: 33, Train Failures: 1, Generated: 2, Coverage: 0.05714285714285716
+
+Task: 14952, Total: 27,  Not Pure SK: 8, Unsupported: 17, Train Failures: 1, Generated: 1, Coverage: 0.05555555555555558
+
+Task: 14954, Total: 39,  Not Pure SK: 11, Unsupported: 17, Train Failures: 7, Generated: 4, Coverage: 0.19047619047619047
+
+Task: 14965, Total: 46,  Not Pure SK: 13, Unsupported: 31, Train Failures: 1, Generated: 1, Coverage: 0.03125
+
+Task: 14969, Total: 48,  Not Pure SK: 13, Unsupported: 33, Train Failures: 1, Generated: 1, Coverage: 0.02941176470588236
+
+Task: 14970, Total: 35,  Not Pure SK: 13, Unsupported: 21, Train Failures: 1, Generated: 0, Coverage: 0.0
+
+Task: 125920, Total: 48,  Not Pure SK: 14, Unsupported: 33, Train Failures: 1, Generated: 0, Coverage: 0.0
+
+Task: 125922, Total: 49,  Not Pure SK: 13, Unsupported: 33, Train Failures: 2, Generated: 1, Coverage: 0.02941176470588236
+
+Task: 146195, Total: 59,  Not Pure SK: 14, Unsupported: 32, Train Failures: 7, Generated: 6, Coverage: 0.1578947368421053
+
+Task: 146800, Total: 44,  Not Pure SK: 10, Unsupported: 24, Train Failures: 4, Generated: 6, Coverage: 0.19999999999999996
+
+Task: 146817, Total: 61,  Not Pure SK: 11, Unsupported: 37, Train Failures: 6, Generated: 7, Coverage: 0.15909090909090906
+
+Task: 146819, Total: 61,  Not Pure SK: 11, Unsupported: 36, Train Failures: 6, Generated: 8, Coverage: 0.18181818181818177
+
+Task: 146820, Total: 44,  Not Pure SK: 11, Unsupported: 24, Train Failures: 5, Generated: 4, Coverage: 0.1428571428571429
+
+Task: 146821, Total: 50,  Not Pure SK: 22, Unsupported: 16, Train Failures: 6, Generated: 6, Coverage: 0.2727272727272727
+
+Task: 146822, Total: 63,  Not Pure SK: 10, Unsupported: 38, Train Failures: 5, Generated: 10, Coverage: 0.20833333333333337
+
+Task: 146824, Total: 41,  Not Pure SK: 11, Unsupported: 23, Train Failures: 4, Generated: 3, Coverage: 0.11538461538461542
+
+Task: 146825, Total: 14,  Not Pure SK: 6, Unsupported: 2, Train Failures: 2, Generated: 4, Coverage: 0.6666666666666667
+
+Task: 167119, Total: 41,  Not Pure SK: 10, Unsupported: 19, Train Failures: 6, Generated: 6, Coverage: 0.24
+
+Task: 167120, Total: 32,  Not Pure SK: 7, Unsupported: 16, Train Failures: 4, Generated: 5, Coverage: 0.23809523809523814
+
+Task: 167121, Total: 10,  Not Pure SK: 5, Unsupported: 2, Train Failures: 1, Generated: 2, Coverage: 0.5
+
+Task: 167124, Total: 6,  Not Pure SK: 2, Unsupported: 2, Train Failures: 2, Generated: 0, Coverage: 0.0
+
+Task: 167125, Total: 8,  Not Pure SK: 2, Unsupported: 2, Train Failures: 3, Generated: 1, Coverage: 0.33333333333333337
+
+Task: 167140, Total: 35,  Not Pure SK: 8, Unsupported: 20, Train Failures: 6, Generated: 1, Coverage: 0.04761904761904767
+
+Task: 167141, Total: 52,  Not Pure SK: 7, Unsupported: 32, Train Failures: 10, Generated: 3, Coverage: 0.08571428571428574
+
+============================Supported operator usage================================
+Pipeline 179
+SimpleImputer 106
+StandardScaler 82
+DecisionTreeClassifier 73
+ColumnTransformer 42
+SVC 22
+RandomForestClassifier 19
+OneHotEncoder 12
+LogisticRegression 8
+MLPClassifier 8
+PCA 7
+ExtraTreesClassifier 3
+MultinomialNB 1
+KNeighborsClassifier 1
+LinearSVC 1
+PolynomialFeatures 1
+============================Unsupported operator usage================================
+Imputer 2018
+AdaBoostClassifier 172
+Nystroem 1
+Average coverage: 0.0751961429757915
+Average pipeline length: 3.5062383031815347

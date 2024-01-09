@@ -1,0 +1,66 @@
+{
+  "covtype": {
+    "rf": {
+      "prediction_time": 0.3966450583538972,
+      "peak_mem": 1405.1171875,
+      "hb-tvm": {
+        "conversion_time": "19.817065062990878",
+        "prediction_time": "0.13270797167206183",
+        "peak_mem": "2506.66796875",
+        "is_same_output": true
+      }
+    },
+    "lgbm": {
+      "prediction_time": 1.229421981338722,
+      "peak_mem": 2536.70703125,
+      "hb-tvm": {
+        "conversion_time": "97.98534605099121",
+        "prediction_time": "1.018454058658487",
+        "peak_mem": "2977.61328125",
+        "is_same_output": true
+      }
+    },
+    "xgb": {
+      "prediction_time": 0.5074175270080256,
+      "peak_mem": 3011.86328125,
+      "hb-tvm": {
+        "conversion_time": "135.50600558897713",
+        "prediction_time": "1.0113336686627008",
+        "peak_mem": "3061.51171875",
+        "is_same_output": true
+      }
+    }
+  },
+  "epsilon": {
+    "rf": {
+      "prediction_time": 0.931805582678256,
+      "peak_mem": 6222.6015625,
+      "hb-tvm": {
+        "conversion_time": "20.027389688999392",
+        "prediction_time": "0.21532984299119562",
+        "peak_mem": "7229.31640625",
+        "is_same_output": false
+      }
+    },
+    "lgbm": {
+      "prediction_time": 0.33287649834528565,
+      "peak_mem": 7214.74609375,
+      "hb-tvm": {
+        "conversion_time": "30.22694542701356",
+        "prediction_time": "0.31144126863606897",
+        "peak_mem": "8165.37890625",
+        "is_same_output": false
+      }
+    },
+    "xgb": {
+      "prediction_time": 0.2295743056650584,
+      "peak_mem": 8166.109375,
+      "hb-tvm": {
+        "conversion_time": "71.86452243302483",
+        "prediction_time": "0.4874329156591557",
+        "peak_mem": "9256.359375",
+        "is_same_output": false
+      }
+    }
+  }
+}
