@@ -66,6 +66,9 @@ python run.py -gpu
 result-cpu-1000000.json
 result-gpu-1000000.json
 ```
-
+cite：
+```
+Nakandala, Supun & Yu, Gyeong-In & Karanasos, Konstantinos & Curino, Carlo & Weimer, Markus & Interlandi, Matteo. A Tensor Compiler for Unified Machine Learning Prediction Serving. OSDI'20: Proceedings of the 14th USENIX Conference on Operating Systems Design and ImplementationNovember 2020Article No.: 51Pages 899–917.
+```
 
 
